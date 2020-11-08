@@ -1,2 +1,3 @@
-# andy-warhol-tribute-page
+# Andy Warhol
+
 A Tribute to Andry Warhol — a freeCodeCamp project
