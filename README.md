@@ -1,3 +1,3 @@
 # Andy Warhol
 
-A Tribute to Andry Warhol — a freeCodeCamp project
+A Tribute to Andy Warhol — a freeCodeCamp project
